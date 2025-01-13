@@ -1,6 +1,6 @@
+gunicorn
 openai
 flask
 transformers
 pytorch 
 pillow
-gunicorn
