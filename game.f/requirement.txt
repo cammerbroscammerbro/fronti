@@ -3,4 +3,4 @@ flask
 transformers
 pytorch 
 pillow
-gunicorn 
+gunicorn
